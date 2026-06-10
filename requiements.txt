@@ -1,0 +1,9 @@
+flask
+opencv-python
+ultralytics
+pygame
+twilio
+streamlit
+pandas
+plotly
+streamlit-autorefresh
